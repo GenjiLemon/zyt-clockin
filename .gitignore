@@ -1,0 +1,5 @@
+exe/
+fiddler_data/
+llc&txt/
+*.exe
+dk.ini
