@@ -1,7 +1,0 @@
-"fieldZtwyc":"",
-"fieldZtw":"1",
-"fieldZhongtw":"1",
-"fieldZhongtwyc":"",
-"fieldWantw":"1",
-"fieldWantwyc":"",
-"fieldXY3":"晚点名",
